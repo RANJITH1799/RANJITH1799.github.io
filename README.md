@@ -1,5 +1,8 @@
+<!DOCTYPE html>
 <html>
-  <head><h1> Welcome to RJ HOOD </h1></head>
+  <head>
+    <title> RJ HOOD </title>
+    <h1> Welcome to RJ HOOD </h1></head>
   <Body>
     <a href= "https://linktr.ee/RJHooD">
       <em>Connect with Me Social Accounts</em>
