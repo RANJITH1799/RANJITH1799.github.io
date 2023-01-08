@@ -10,7 +10,7 @@
 <!-- partial:index.partial.html -->
 <div class="flex-container">
 	<div class="flex-item bg-one tilt">
-		<a href="#nothing"> <span><img src="https://cdn.freebiesupply.com/images/large/2x/instagram-icon-white-on-black-circle.png"></span> 
+		<a href="#nothing"> <span><img src="https://cdn.freebiesupply.com/images/large/2x/instagram-icon-white-on-black-circle.png&size=500"></span> 
     		  <div class="text">
         Instagram
         </div>
