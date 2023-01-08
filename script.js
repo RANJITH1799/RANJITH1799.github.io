@@ -1,49 +1,20 @@
-var current = null;
-document.querySelector('#email').addEventListener('focus', function(e) {
-  if (current) current.pause();
-  current = anime({
-    targets: 'path',
-    strokeDashoffset: {
-      value: 0,
-      duration: 700,
-      easing: 'easeOutQuart'
-    },
-    strokeDasharray: {
-      value: '240 1386',
-      duration: 700,
-      easing: 'easeOutQuart'
-    }
-  });
-});
-document.querySelector('#password').addEventListener('focus', function(e) {
-  if (current) current.pause();
-  current = anime({
-    targets: 'path',
-    strokeDashoffset: {
-      value: -336,
-      duration: 700,
-      easing: 'easeOutQuart'
-    },
-    strokeDasharray: {
-      value: '240 1386',
-      duration: 700,
-      easing: 'easeOutQuart'
-    }
-  });
-});
-document.querySelector('#submit').addEventListener('focus', function(e) {
-  if (current) current.pause();
-  current = anime({
-    targets: 'path',
-    strokeDashoffset: {
-      value: -730,
-      duration: 700,
-      easing: 'easeOutQuart'
-    },
-    strokeDasharray: {
-      value: '530 1386',
-      duration: 700,
-      easing: 'easeOutQuart'
-    }
-  });
+/*vanilla-tilt.js*/
+const tilt = document.querySelectorAll(".tilt");
+
+VanillaTilt.init(tilt, {
+	reverse: true,
+	max: 15,
+	speed: 400,
+	scale: 1.12,
+	glare: true,
+	reset: true,
+	perspective: 500,
+	transition: true,
+	"max-glare": 0.75,
+	"glare-prerender": false,
+	gyroscope: true,
+	gyroscopeMinAngleX: -45,
+	gyroscopeMaxAngleX: 45,
+	gyroscopeMinAngleY: -45,
+	gyroscopeMaxAngleY: 45
 });
