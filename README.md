@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
@@ -10,7 +9,7 @@
 <!-- partial:index.partial.html -->
 <div class="flex-container">
 	<div class="flex-item bg-one tilt">
-		<a href="#nothing"> <span><img src="https://cdn.freebiesupply.com/images/large/2x/instagram-icon-white-on-black-circle.png&size=500"></span> 
+		<a href="https://www.instagram.com/ranjith_kash/"> <span><img src="https://cdn.freebiesupply.com/images/large/2x/instagram-icon-white-on-black-circle.png"></span> 
     		  <div class="text">
         Instagram
         </div>
@@ -18,13 +17,13 @@
         </a>
 	</div>
 	<div class="flex-item bg-two tilt">
-		<a href="#nothing"> <span><img src="https://cdn.freebiesupply.com/images/large/2x/whatsapp-logo-transparent.png"></span>
+		<a href="https://api.whatsapp.com/send/?phone=917871222647&text&type=phone_number&app_absent=0"> <span><img src="https://cdn.freebiesupply.com/images/large/2x/whatsapp-logo-transparent.png"></span>
     		  <div class="text">
         WhatsApp
         </div></a>
 	</div>
   	<div class="flex-item bg-three tilt">
-		<a href="#nothing"> <span><img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png"></span>
+		<a href="https://www.linkedin.com/in/ranjith-kannan-420478196/"> <span><img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png"></span>
 		  <div class="text">
         Linked In
         </div>
