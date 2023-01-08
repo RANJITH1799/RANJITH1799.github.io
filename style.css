@@ -83,9 +83,8 @@
 }
 
 .bg-four {
-  background: linear-gradient(45deg, #ff194b, #82000f);
+  background: linear-gradient(45deg, #ff194b, #8215f0);
 }
-
 
 .flex-item span > img {
   width:200px;
