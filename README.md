@@ -30,6 +30,11 @@
       
 		</a>
 	</div>
+	<div class="flex-item bg-four tilt">
+		<a href="https://t.me/thaladhoni007"> <span><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"></span>
+    		  <div class="text">
+        WhatsApp
+        </div></a>
 </div>
 <!-- partial -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js'></script><script  src="./script.js"></script>
