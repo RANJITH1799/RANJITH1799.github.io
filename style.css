@@ -82,6 +82,11 @@
   background: linear-gradient(45deg, #ff00bb, #82000f);
 }
 
+.bg-four {
+  background: linear-gradient(45deg, #ff194b, #82000f);
+}
+
+
 .flex-item span > img {
   width:200px;
 }
