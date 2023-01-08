@@ -33,7 +33,7 @@
 	<div class="flex-item bg-four tilt">
 		<a href="https://t.me/thaladhoni007"> <span><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"></span>
     		  <div class="text">
-        WhatsApp
+        Telegram
         </div></a>
 </div>
 <!-- partial -->
